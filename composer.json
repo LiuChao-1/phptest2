@@ -1,0 +1,10 @@
+{
+  "name": "test-adi/test",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "AdiTest\\Test\\": "src/"
+    }
+  }
+}
